@@ -1,0 +1,9 @@
+/build/
+/.vs/
+/out/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.spv
+*.slang-module
